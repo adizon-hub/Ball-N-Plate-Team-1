@@ -26,6 +26,8 @@ Table 2: Equations Used Continue
 <br>
 <br>
 Transfer function 
+<br>
+<br>
   a. Transfer function for 1 servo where (s) is the rotation of the motor in rads, and the output is R(s) = ball position
 
 
