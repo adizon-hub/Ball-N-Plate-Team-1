@@ -14,13 +14,13 @@ Figure 1. Ball and Plate System
 <br>
 <br>
 
-<img width="504" alt="equations1" src="https://user-images.githubusercontent.com/76410573/102726659-6da61400-42d5-11eb-853e-7d81b7736615.png">
+<img width="470" alt="equations1" src="https://user-images.githubusercontent.com/76410573/102726924-36d0fd80-42d7-11eb-9852-108088fde928.png">
 Table 1: Equations Used
 <br>
 <br>
 Using the nonlinear equation of a motion shown in Eq (4) it was then linearized by doing sin(theta) = 0 , which can be written as shown in Eq (5). Next, the transfer function, Eq (7), for one motor was found by taking the Laplace transform of the linearized equation, Eq (6). This transfer function equation will also be used for the second motor as well.  
 
-<img width="501" alt="equations2" src="https://user-images.githubusercontent.com/76410573/102726690-b8c02700-42d5-11eb-95fa-18dc798aae28.png">
+<img width="469" alt="equations2" src="https://user-images.githubusercontent.com/76410573/102726930-4f411800-42d7-11eb-8d5b-9b582b36e3e8.png">
 Table 2: Equations Used Continue
 
 
