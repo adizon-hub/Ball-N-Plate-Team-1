@@ -13,7 +13,7 @@ In the Figure ( ) is the ball and plate system free body diagram that is being u
 
 <img width="504" alt="equations1" src="https://user-images.githubusercontent.com/76410573/102726659-6da61400-42d5-11eb-853e-7d81b7736615.png">
 Table 1: Equations Used
-
+&nbsp;
 Using the nonlinear equation of a motion shown in Eq (4) it was then linearized by doing sin(theta) = 0 , which can be written as shown in Eq (5). Next, the transfer function, Eq (7), for one motor was found by taking the Laplace transform of the linearized equation, Eq (6). This transfer function equation will also be used for the second motor as well.  
 
 <img width="501" alt="equations2" src="https://user-images.githubusercontent.com/76410573/102726690-b8c02700-42d5-11eb-95fa-18dc798aae28.png">
