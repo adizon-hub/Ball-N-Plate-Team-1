@@ -25,11 +25,12 @@ Using the nonlinear equation of a motion shown in Eq (4) it was then linearized 
 Table 2: Equations Used Continue
 <br>
 <br>
-Transfer function 
+<header>
+  <h1>Transfer function</h1> 
 <br>
 <br>
   a. Transfer function for 1 servo where (s) is the rotation of the motor in rads, and the output is R(s) = ball position
-
+</header>
 
 
 # 3- CONTROLLER DESIGN & MODEL SIMULINK
