@@ -6,8 +6,7 @@
 
 # 2- SYSTEM MODELING
 
-<img width="449" alt="model1" src="https://user-images.githubusercontent.com/76410573/102726385-39315880-42d3-11eb-90c7-e39596caa4be.png">
-              Figure : Ball and Plate System
+<img width="449" alt="model1" src="https://user-images.githubusercontent.com/76410573/102726385-39315880-42d3-11eb-90c7-e39596caa4be.png">Figure : Ball and Plate System
 
 
 # 3- CONTROLLER DESIGN & MODEL SIMULINK
