@@ -11,6 +11,7 @@ In the Figure ( ) is the ball and plate system free body diagram that is being u
 <img width="370" alt="model1" src="https://user-images.githubusercontent.com/76410573/102726544-76e2b100-42d4-11eb-9b7c-9d6543911034.png">
 <p style="margin-left:200px; margin-right:50px;">Figure 1. Ball and Plate System</p>
 
+<img width="370" alt="model1" src="https://user-images.githubusercontent.com/76410573/102726544-76e2b100-42d4-11eb-9b7c-9d6543911034.png">
 
 
 
