@@ -18,9 +18,9 @@ Figure 1. Ball and Plate System
 Table 1: Equations Used
 <br>
 <br>
-Using the nonlinear equation of a motion shown in Eq (4) it was then linearized by doing sin(theta) = 0 , which can be written as shown in Eq (5). Next, the transfer function, Eq (7), for one motor was found by taking the Laplace transform of the linearized equation, Eq (6). This transfer function equation will also be used for the second motor as well.  
+Using the nonlinear equation of a motion shown in Eq (4) it was then linearized by doing sin(theta) = 0 , which can be written as shown in Eq (5). Next, the transfer function, Eq (7), for one motor was found by taking the Laplace transform of the linearized equation, Eq (6). This transfer function equation will also be used for the second motor as well.
 
-<img width="469" alt="equations2" src="https://user-images.githubusercontent.com/76410573/102726930-4f411800-42d7-11eb-8d5b-9b582b36e3e8.png">
+<img width="473" alt="equations2" src="https://user-images.githubusercontent.com/76410573/102726966-844d6a80-42d7-11eb-80d1-2a52e31be046.png">
 Table 2: Equations Used Continue
 
 
