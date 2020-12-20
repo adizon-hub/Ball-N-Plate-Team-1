@@ -11,8 +11,9 @@ In the Figure ( ) is the ball and plate system free body diagram that is being u
 <img width="370" alt="model1" src="https://user-images.githubusercontent.com/76410573/102726544-76e2b100-42d4-11eb-9b7c-9d6543911034.png">
 <p style="margin-left:200px; margin-right:50px;">Figure 1. Ball and Plate System</p>
 
-<img width="370" alt="model1" src="https://user-images.githubusercontent.com/76410573/102726544-76e2b100-42d4-11eb-9b7c-9d6543911034.png">
+<img width="504" alt="equations1" src="https://user-images.githubusercontent.com/76410573/102726659-6da61400-42d5-11eb-853e-7d81b7736615.png">
 
+Using the nonlinear equation of a motion shown in Eq (4) it was then linearized by doing sin(theta) = 0 , which can be written as shown in Eq (5). Next, the transfer function, Eq (7), for one motor was found by taking the Laplace transform of the linearized equation, Eq (6). This transfer function equation will also be used for the second motor as well.  
 
 
 # 3- CONTROLLER DESIGN & MODEL SIMULINK
